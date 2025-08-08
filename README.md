@@ -1,7 +1,3 @@
-📘 README.md for task_tracker_app
-markdown
-Copy
-Edit
 # 📝 Task Tracker CLI App
 
 A lightweight, emoji-enhanced command-line interface (CLI) task tracker built in Python.  
@@ -50,9 +46,6 @@ Add optional terminal colors for better UX (via colorama or similar)
 💡 Usage
 To run the app:
 
-bash
-Copy
-Edit
 python3 task_tracker.py
 Tasks will be saved automatically in tasks.json after every add, update, or delete.
 
@@ -66,10 +59,6 @@ Created by Tyson Wildman (@wildmanty12)
 
 🗓️ License
 MIT License — free to use, modify, and distribute.
-
-yaml
-Copy
-Edit
 
 ---
 
