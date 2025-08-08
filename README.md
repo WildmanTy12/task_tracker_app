@@ -59,15 +59,3 @@ Created by Tyson Wildman (@wildmanty12)
 
 🗓️ License
 MIT License — free to use, modify, and distribute.
-
----
-
-### ✅ Next Steps
-
-1. Save this as `README.md` in your project folder
-2. Run:
-
-```bash
-git add README.md
-git commit -m "Add README.md for task tracker app"
-git push
